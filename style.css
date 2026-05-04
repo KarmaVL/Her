@@ -182,7 +182,7 @@ body {
   /* 3 FOTO PINDAH KE BAWAH TITLE */
   .photo-group {
     top: 35%;
-    left: 40%;
+    left: 35%;
     right: auto;
     transform: translateX(-50%);
     gap: 12px;
@@ -213,7 +213,7 @@ body {
 
   /* BOTTOM TEXT */
   .bottom-left {
-    left: 50%;
+    left: 45%;
     transform: translateX(-50%);
     text-align: center;
     bottom: 20px;
