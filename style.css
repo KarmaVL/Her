@@ -182,7 +182,7 @@ body {
   /* 3 FOTO PINDAH KE BAWAH TITLE */
   .photo-group {
     top: 35%;
-    left: 25%;
+    left: 30%;
     right: auto;
     transform: translateX(-50%);
     gap: 12px;
